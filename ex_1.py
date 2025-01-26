@@ -13,4 +13,4 @@ print(f"avg is - {avg}")
 for num in arr:
     if num > avg:
         print(num, end=" ")
-print("helooooooo")
+print("helooooooo2222")
