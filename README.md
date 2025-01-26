@@ -1,6 +1,6 @@
 # Git Basics Cheat Sheet + Python
 
-## Initial Setup
+## Initial Setup2
 
 ### How to run python file
 
